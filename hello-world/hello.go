@@ -21,4 +21,4 @@ func main() {
 	fmt.Println(Hello("World", ""))
 }
 
-// JIRA integration JLC-4
+// JIRA integration JLC-4 without bracet
